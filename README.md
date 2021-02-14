@@ -15,7 +15,7 @@ rmn-web-sites
 | FQDN | サイト名 | ライセンス | ビルド方式/ツール |
 | ---- | -------- | ---------- | ---------- |
 | [rmn-web.net](https://rmn-web.net/) | 旧ブログ | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [hugo](https://gohugo.io/) |
-| [pointp.rmn-web.net](https://pointp.rmn-web.net) | 線分ABを点Pがノリノリで動くゲーム | [Apache 2.0](https://github.com/matsuyuki-a/rmn-web-sites/blob/master/pointp.rmn-web.net/LICENSE) | なし |
+| [pointp.rmn-web.net](https://pointp.rmn-web.net) | 線分ABを点Pがノリノリで動くゲーム リダイレクト用 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) | なし |
 | [portfolio.rmn-web.net](https://portfolio.rmn-web.net) | ポートフォリオ | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) | [hugo](https://gohugo.io/) |
 | [teatime.rmn-web.net](https://teatime.rmn-web.net) | Teatime Chat Wiki リダイレクト用 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) | なし |
 | [trivial.rmn-web.net](https://trivial.rmn-web.net) | 小ネタ | doon.jpg * 以外: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) | なし |
