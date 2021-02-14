@@ -1,4 +1,4 @@
-baseurl = "https://portfolio.rmn-web.net"
+baseurl = "https://portfolio.matsuyuki.dev/"
 languageCode = "ja-jp"
 title = "まつゆき ＜ポートフォリオ＞"
 
@@ -7,5 +7,5 @@ title = "まつゆき ＜ポートフォリオ＞"
   url = "https://matsuyuki.dev"
   
 [params]
-copyright = "2003-2019 Matsuyuki ( CC BY 4.0 License )"
-licensePage = "http://rmn-web.net/page/license"
+copyright = "2003-2021 Matsuyuki ( CC BY 4.0 License )"
+licensePage = "https://portfolio.matsuyuki.dev/page/license"
