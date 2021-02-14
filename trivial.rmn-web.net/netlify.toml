@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/keytest/*"
+  to = "https://matsuyuki.dev/trivial/keytest/:splat"
+[[redirects]]
+  from = "/stg_test.html"
+  to = "https://matsuyuki.dev/trivial/stg-test/"
+
