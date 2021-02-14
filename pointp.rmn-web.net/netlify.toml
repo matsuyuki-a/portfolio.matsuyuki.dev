@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://matsuyuki.dev/trivial/pointp/:splat"
-
