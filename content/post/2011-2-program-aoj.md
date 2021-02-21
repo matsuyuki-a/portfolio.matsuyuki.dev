@@ -22,5 +22,3 @@ slug = "program-aoj"
 にある問題を解き進めるなど。
 
 （でも、ちょっとアルゴリズムを工夫しないといけない問題はほとんど解けないのでした。）
-
-- [AOJでこれまでに説いた問題（Volumesを選択してください）](http://judge.u-aizu.ac.jp/onlinejudge/manager.jsp?uid=rmn_31415)

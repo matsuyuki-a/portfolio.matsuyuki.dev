@@ -21,12 +21,12 @@ Webクラスとしては、主にContent Security Policyなどの任意のJavaSc
 
 #### 副産物「進捗Clicker」
 
-Firefox OS のアプリケーションを作成する事前課題が出されたため、作成したゲームです。
+当時注目されていた、スマートフォン向けOSである Firefox OS のアプリケーションを作成する事前課題が出されたため、作成したゲームです。
 
 <table>
 <tr><th>タイトル</th><td>進捗Clicker</td></tr>
 <tr><th>作者</th><td>rmn.（現: まつゆき）</td></tr>
-<tr><th>ソースコード</th><td><a href="https://github.com/rmn31415/progress-clicker">https://github.com/rmn31415/progress-clicker</a></td></tr>
+<tr><th>ソースコード</th><td><a href="https://github.com/matsuyuki-a/progress-clicker">https://github.com/matsuyuki-a/progress-clicker</a></td></tr>
 <tr><th>開発言語</th><td>JavaScript, HTML, CSS</td></tr>
 <tr><th>使用ライブラリ</th><td><a href="https://github.com/buildingfirefoxos/Building-Blocks">Building-Blocks</a></td></tr>
 <tr><th>ライセンス</th><td>Apache License 2.0</td></tr>
