@@ -12,3 +12,12 @@ https://portfolio.matsuyuki.dev/
 特に断り書きがない限り、CC-BY 4.0とします。
 
 サイトにて表紙される一部、権利関係上、CC-BYにできない画像があります。(外部参照しているもので、このリポジトリ内にはありません)
+
+Webサイトが依存しているソフトウェアのライセンス(Hugoで利用しているテーマ, jQuery, Bootstrap, Font Awesome 等)については、 `content/licennse.md` をご覧ください。
+
+## ビルド方法
+[Hugo](https://gohugo.io/) をインストールしてください。 v0.80 で動作確認しています。
+
+```sh
+$ hugo -t hugo-multi-bootswatch
+```

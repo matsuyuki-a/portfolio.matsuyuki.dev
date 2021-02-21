@@ -9,3 +9,7 @@ title = "まつゆき ＜ポートフォリオ＞"
 [params]
 copyright = "2003-2021 Matsuyuki ( CC BY 4.0 License )"
 licensePage = "https://portfolio.matsuyuki.dev/page/license"
+
+[markup.goldmark.renderer]
+  # Hugo v0.60 以降で 生 HTML が omit されるようになった。 tableタグが表示されなくなってしまっているのでこれは認めるようにしている。
+  unsafe = true
